@@ -4,6 +4,9 @@
 
 **A comprehensive machine learning solution, DealWin Analytics, to predict the win possibilities of deals for an IT consulting company. This project involved building a predictive model to assess the probability of winning or losing a bid and performing prescriptive analytics to identify key variables influencing the outcome. The model also recommended the top 5 Bid Manager and SBU Head combinations to optimize the win rate, helping the company prioritize efforts and allocate resources effectively to meet growth targets. Conducted extensive exploratory data analysis, data cleaning, and model evaluation using various techniques to ensure high accuracy and business relevance.**
 
+![image](https://github.com/Ajay-Dobliyal/DEAL-OUTCOME-PREDICTOR-ANALYTICS/assets/91046133/084a72d1-835c-4f55-979b-ffa43dff90e6)
+
+
 **Market Outlook:**
 
 IT firms compete for winning large deals by designing and proposing solutions to their clients. These deals often differ from each other in terms sector of the client, 
