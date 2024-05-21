@@ -20,4 +20,7 @@ Organizations puts in a lot of effort in bidding preparation with no indications
 1) Predictive Analytics - ML model to predict the probability of win/loss for bidding activities for a potential client.
 2) Prescriptive Analytics –  Recommended the top 5 Bid Manager and SBU Head combinations to optimize the win rate, helping the company prioritize efforts and allocate resources effectively to meet growth targets.
 
-![Top 5 combo](https://github.com/Ajay-Dobliyal/DEAL-OUTCOME-PREDICTOR-ANALYTICS/assets/91046133/720308fe-8e2c-4d2a-92ae-b3c58be4a2a8)
+![image](https://github.com/Ajay-Dobliyal/IT-Consulting-Deals-Outcome-Predictor-Analytics/assets/91046133/a23f9828-d42c-4537-b073-4d067d892724)
+
+
+
